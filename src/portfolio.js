@@ -34,7 +34,7 @@ const projects = [
     description:
       'Amet asperiores et impedit aliquam consectetur? Voluptates sed a nulla ipsa officia et esse aliquam',
     stack: ['Django', 'React'],
-    sourceCode: 'https://github.com/samibentaiba/itcp-prv',
+    sourceCode: 'https://github.com/samibentaiba/itc-p',
     //   livePreview: 'https://github.com/samibentaiba/itcp-prv',
   },
 ]
