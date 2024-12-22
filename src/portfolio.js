@@ -43,6 +43,7 @@ const skills = [
   // skills can be added or removed
   // if there are no skills, Skills section won't show up
   'MERN STACK',
+  'TYPESCRIPT',
   'LINUX & VIRTUALIZATION EXPERTISE',
   'CODE EDITORS MASTERY',
   'TEAM LEADERSHIP & COLLABORATION',
