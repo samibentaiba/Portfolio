@@ -11,7 +11,7 @@ const about = {
   description:
     'I am a developer and educator with a passion for web development and knowledge sharing. The three projects in my portfolio showcase ideas and problem-solving concepts. My goal is to make an impact in the workplace while continuing to learn and inspire others.',
   resume:
-    'https://drive.google.com/file/d/1BN5K94nFJiDu7mSS5eDgSeU9JZ4tod-g/view?usp=drive_link',
+    'https://drive.google.com/file/d/1uEQOZLZOhGgeRXfurZFECXE5X_7CuMvz/view?usp=drive_link',
   social: {
     linkedin: 'https://www.linkedin.com/in/samibentaiba',
     github: 'https://github.com/samibentaiba',
