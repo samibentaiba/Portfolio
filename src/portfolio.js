@@ -1,4 +1,4 @@
-const header = {
+ const header = {
   // all the properties are optional - can be left empty or deleted
   homepage: 'https://discord.gg/JsZruPsq',
   title: 'IT.',
@@ -24,7 +24,7 @@ const projects = [
   {
     name: 'Computer Science Engineering Hub (CSE HUB)',
     description:
-      'Amet asperiores et impedit aliquam consectetur? Voluptates sed a nulla ipsa officia et esse aliquam',
+      'The Computer Science Engineering Education Website provides resources, courses, and tutorials for students to learn programming, algorithms, and system design. It highlights expertise in web development and educational content creation.',
     stack: ['Express', 'React'],
     sourceCode: 'https://github.com/samibentaiba/cse-hub',
     //  livePreview: 'https://github.com/samibentaiba/cse-hub',
@@ -32,7 +32,7 @@ const projects = [
   {
     name: 'Information Technology Competitive Programming (ITCP)',
     description:
-      'Amet asperiores et impedit aliquam consectetur? Voluptates sed a nulla ipsa officia et esse aliquam',
+      'The ITC Programming Competition Website is a platform for hosting contests with automated grading and a live leaderboard. It showcases skills in full-stack development and responsive web design.',
     stack: ['Django', 'React'],
     sourceCode: 'https://github.com/samibentaiba/itc-p',
     //   livePreview: 'https://github.com/samibentaiba/itcp-prv',
