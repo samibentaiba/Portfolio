@@ -32,7 +32,7 @@ const projects = [
   {
     name: 'Information Technology Competitive Programming (ITCP)',
     description:
-      'The ITC Programming Competition Website is a platform for hosting contests with automated grading and a live leaderboard. It showcases skills in full-stack development and responsive web design.',
+      'The ITC Programming Competition Website is a platform for competition, i shared in development team as front-end developer',
     stack: ['Django', 'React'],
     sourceCode: 'https://github.com/samibentaiba/itc-p',
     //   livePreview: 'https://github.com/samibentaiba/itcp-prv',
